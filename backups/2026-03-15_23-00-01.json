@@ -52,7 +52,7 @@
     {
       "Allowoffline": false,
       "device_id": "f71b880a552523c6",
-      "expirydate": "14-03-2026",
+      "expirydate": "15-04-2026",
       "key": "BYC3RZAZJ5LA",
       "user": "Rushi"
     },
@@ -4475,6 +4475,20 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "5e7e216b92b3f128",
+      "expirydate": "17-03-2026",
+      "key": "FLZ0ZNSATXQX",
+      "user": "Loving Bilal"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "339580606ad6fdaa",
+      "expirydate": "31-03-2026",
+      "key": "DVBGZ9RYCAV1",
+      "user": "Vishal Gupta"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "624f51b888497475",
       "expirydate": "16-03-2026",
       "key": "8NZJWG1WLLHX",
@@ -6219,7 +6233,7 @@
     {
       "Allowoffline": false,
       "device_id": "5eaa200ec8754dda",
-      "expirydate": "23-03-2026",
+      "expirydate": "26-03-20",
       "key": "34G7UWJPHRRK",
       "user": "Unkwn"
     },
@@ -6331,7 +6345,7 @@
     {
       "Allowoffline": false,
       "device_id": "80bd821ec05912ae",
-      "expirydate": "15-03-2026",
+      "expirydate": "22-03-2026",
       "key": "BS0VNX5SYGQL",
       "user": "D. K"
     },
@@ -6513,7 +6527,7 @@
     {
       "Allowoffline": false,
       "device_id": "e14e2fcb1f434b00",
-      "expirydate": "22-03-2026",
+      "expirydate": "22-03-20",
       "key": "CO1XBR3ELH9W",
       "user": "Vishal Gupta"
     },
@@ -9181,6 +9195,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "fc4e464841e53ecc",
+      "expirydate": "31-03-2026",
+      "key": "4P3DR71AIOMF",
+      "user": "Ramesh Kumar"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "47074fbf720f8857",
       "expirydate": "30-03-2026",
       "key": "SJRAPU714HDY",
@@ -9588,7 +9609,7 @@
     {
       "Allowoffline": false,
       "device_id": "5eaa200ec8754dda",
-      "expirydate": "23-03-20",
+      "expirydate": "26-03-2026",
       "key": "FQA3ZWWME31R",
       "user": "Unkwn"
     },
@@ -9700,7 +9721,7 @@
     {
       "Allowoffline": false,
       "device_id": "339580606ad6fdaa",
-      "expirydate": "04-03-2026",
+      "expirydate": "20-03-2026",
       "key": "TGJMV76HFDSD",
       "user": "Vasu G"
     },
