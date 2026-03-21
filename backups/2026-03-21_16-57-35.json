@@ -4510,6 +4510,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "6f6393c9663d8229",
+      "expirydate": "22-03-2026",
+      "key": "C05YDV0C11BS",
+      "user": "R S kirar"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "589d40266010ab85",
       "expirydate": "22-03-2026",
       "key": "KXZS04MUU5YU",
@@ -4973,7 +4980,7 @@
     {
       "Allowoffline": false,
       "device_id": "624f51b888497475",
-      "expirydate": "16-03-2026",
+      "expirydate": "05-04-2026",
       "key": "8NZJWG1WLLHX",
       "user": "Pandey"
     },
