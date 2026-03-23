@@ -4517,6 +4517,27 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "263500b41649edd2",
+      "expirydate": "24-03-2026",
+      "key": "7HFT0YP72EAW",
+      "user": "Omprakash Lodhi"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "6eae2ffb2b02b684",
+      "expirydate": "24-03-2026",
+      "key": "N8PVWTDR655X",
+      "user": "Dhiraj Thakur"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "ce1d8267c1d73bae",
+      "expirydate": "31-03-2026",
+      "key": "DJMKI4XSDESV",
+      "user": "Manoj Kumar"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "82698d5199ac76f2",
       "expirydate": "24-03-2026",
       "key": "VJD43L9CKN6M",
@@ -4609,7 +4630,7 @@
     {
       "Allowoffline": false,
       "device_id": "a777f205d8181fbd",
-      "expirydate": "24-03-2026",
+      "expirydate": "01-04-2026",
       "key": "HZJ3HNWRBUBW",
       "user": "Tanvir"
     },
@@ -6037,7 +6058,7 @@
     {
       "Allowoffline": false,
       "device_id": "9b81a9f3260b9d56",
-      "expirydate": "11-03-2026",
+      "expirydate": "25-03-2026",
       "key": "ZOXBA6XHOI5H",
       "user": "Bbbbh ooooo"
     },
@@ -6121,7 +6142,7 @@
     {
       "Allowoffline": false,
       "device_id": "035a6e438866ab28",
-      "expirydate": "11-03-2026",
+      "expirydate": "25-03-2026",
       "key": "HH8P8YAZ17U7",
       "user": "Gautam Kumar"
     },
@@ -8396,7 +8417,7 @@
     {
       "Allowoffline": false,
       "device_id": "5917b5d0e632339b",
-      "expirydate": "23-03-2026",
+      "expirydate": "24-03-2026",
       "key": "Hu5e@5yb",
       "user": "Sanjay Kumar"
     },
@@ -9874,6 +9895,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "b0e993b56645e1b0",
+      "expirydate": "22-04-2026",
+      "key": "1X5QD7IE20SC",
+      "user": "Surendra Anita"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "560ebfcfb569d053",
       "expirydate": "02-04-2026",
       "key": "MXDCX37G51WU",
@@ -10267,7 +10295,7 @@
     {
       "Allowoffline": false,
       "device_id": "65da2ddd6cccaf16",
-      "expirydate": "23-03-2026",
+      "expirydate": "25-03-2026",
       "key": "9INHAMA1B2X5",
       "user": "Ayon Kumar"
     },
