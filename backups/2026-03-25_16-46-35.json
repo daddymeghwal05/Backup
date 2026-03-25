@@ -30,6 +30,20 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "7b690fe2f6125993",
+      "expirydate": "27-03-2026",
+      "key": "6U0J7HIRK3GK",
+      "user": "Devendra Kashyap"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "cace29404c3ebb69",
+      "expirydate": "27-03-2026",
+      "key": "6DR3SS5XWDSL",
+      "user": "Tushar Suman"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "779f5e1d49d8848d",
       "expirydate": "25-03-2026",
       "key": "MY9K8NDTUGMJ",
@@ -4517,6 +4531,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "APK ID: f481c3284b001dec",
+      "expirydate": "09-04-2026",
+      "key": "A74UNYUH7IGH",
+      "user": "Sumer Gurjar"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "40df9eb263b77fe7",
       "expirydate": "26-03-2026",
       "key": "7A2KMKO8DWZE",
@@ -5729,7 +5750,7 @@
     {
       "Allowoffline": false,
       "device_id": "dceaf9741c91298a",
-      "expirydate": "15-03-2026",
+      "expirydate": "26-03-2026",
       "key": "C6HMQ8JQ1EPJ",
       "user": "Mir"
     },
@@ -6359,7 +6380,7 @@
     {
       "Allowoffline": false,
       "device_id": "35546db14e7000dd",
-      "expirydate": "25-03-2026",
+      "expirydate": "30-03-2026",
       "key": "5CHTA1RH2A6G",
       "user": "Manoj Kumar"
     },
@@ -6926,7 +6947,7 @@
     {
       "Allowoffline": false,
       "device_id": "2ee5d0466b4d47f1",
-      "expirydate": "09-04-2026",
+      "expirydate": "09-04-20",
       "key": "F5NB4YYPTUN8",
       "user": "Budhir Kumar"
     },
@@ -7034,13 +7055,6 @@
       "expirydate": "09-03-2026",
       "key": "11RLX8BMLOBV",
       "user": "Parwez Alam"
-    },
-    {
-      "Allowoffline": false,
-      "device_id": "f481c3284b001dec",
-      "expirydate": "09-03-20",
-      "key": "UP6PL63YSU3W",
-      "user": "Sumer Gurjar"
     },
     {
       "Allowoffline": false,
@@ -10137,6 +10151,13 @@
       "expirydate": "02-03-2026",
       "key": "Q9OF3TMO3J156",
       "user": "Sonu Singh"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "c6b404adab3c86e5",
+      "expirydate": "27-03-2026",
+      "key": "EB8G91W6LAJT",
+      "user": "Durga Ram"
     },
     {
       "Allowoffline": false,
