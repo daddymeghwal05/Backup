@@ -4531,6 +4531,27 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "f995314987de7e86",
+      "expirydate": "27-03-2026",
+      "key": "0Z1K2D87SZUH",
+      "user": "Rahul Kumar"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "4b557344868297e0",
+      "expirydate": "27-03-2026",
+      "key": "WMQYOLUCYH9C",
+      "user": "Guruprasad behera"
+    },
+    {
+      "Allowoffline": false,
+      "device_id": "dd034bab78c4dbea",
+      "expirydate": "27-03-2026",
+      "key": "AC8GAXFW4Y2U",
+      "user": "Avinash Kumar"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "APK ID: f481c3284b001dec",
       "expirydate": "09-04-2026",
       "key": "A74UNYUH7IGH",
@@ -5218,7 +5239,7 @@
     {
       "Allowoffline": false,
       "device_id": "cd812a29196e139d",
-      "expirydate": "26-03-2026",
+      "expirydate": "27-03-2026",
       "key": "8QI8N6G1AAVH",
       "user": "Sachin Yadav"
     },
@@ -8298,7 +8319,7 @@
     {
       "Allowoffline": false,
       "device_id": "7f68a6461068fe34",
-      "expirydate": "26-03-2026",
+      "expirydate": "27-03-2026",
       "key": "je73jr8rkrir7u",
       "user": "Sachin Yadav"
     },
