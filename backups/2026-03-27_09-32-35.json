@@ -4538,6 +4538,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "e4568a43e35fac20",
+      "expirydate": "28-03-2026",
+      "key": "KTHDYRJQA12S",
+      "user": "Deendayal Maurya"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "89b46eaa1c36789f",
       "expirydate": "28-03-2026",
       "key": "LNDXMAJN72T3",
@@ -9047,7 +9054,7 @@
     {
       "Allowoffline": false,
       "device_id": "773134f35775dda4",
-      "expirydate": "27-03-2026",
+      "expirydate": "28-03-2026",
       "key": "JU6@6grieb",
       "user": "Sarwar"
     },
