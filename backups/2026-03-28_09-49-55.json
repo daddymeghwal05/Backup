@@ -4538,6 +4538,13 @@
     },
     {
       "Allowoffline": false,
+      "device_id": "8468c0247ae96a24",
+      "expirydate": "29-03-2026",
+      "key": "CQJBWCPEH0GT",
+      "user": "Sardar Kanase"
+    },
+    {
+      "Allowoffline": false,
       "device_id": "2430007011275205",
       "expirydate": "28-03-2026",
       "key": "MSB6V00J3GJO",
